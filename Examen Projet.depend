@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1585066395 source:c:\users\uwicl\desktop\eci\pap\examen projet\animal.c
+	"Animal.h"
+
+1585066398 c:\users\uwicl\desktop\eci\pap\examen projet\animal.h
+	"perso.h"
+
+1585066386 c:\users\uwicl\desktop\eci\pap\examen projet\perso.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1585066389 source:c:\users\uwicl\desktop\eci\pap\examen projet\enclos.c
+	"enclos.h"
+
+1585066392 c:\users\uwicl\desktop\eci\pap\examen projet\enclos.h
+	"perso.h"
+
+1585066401 source:c:\users\uwicl\desktop\eci\pap\examen projet\main.c
+	"Animal.h"
+	"enclos.h"
+
+1585066381 source:c:\users\uwicl\desktop\eci\pap\examen projet\perso.c
+	"perso.h"
+
